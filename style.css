@@ -1,0 +1,36 @@
+#body_1{
+    background-image: url("math.jpg");
+    background-size: cover;
+};
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+};
+
+#div_1{
+    background: rgb(11, 14, 212);
+  padding: 10px;
+  float: none;
+  border-radius: 15px;
+  width: 50%;
+  margin-top: 10%;
+}
+
+b{
+    color: red;
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #bdb0b4;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#body_2{
+    background-color: grey;
+}
